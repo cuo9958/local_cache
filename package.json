@@ -1,5 +1,5 @@
 {
-    "name": "local_cache",
+    "name": "@cuo9958/local_cache",
     "version": "1.0.0",
     "description": "nodejs双缓存",
     "main": "index.js",
